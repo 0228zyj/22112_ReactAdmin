@@ -1,0 +1,10 @@
+.form::after{
+  content: "";
+  display: block;
+  clear: both;
+}
+.form>div{
+  float:right;
+  margin-bottom: 30px;
+  margin-right:80px;
+}

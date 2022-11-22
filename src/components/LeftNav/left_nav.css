@@ -1,0 +1,17 @@
+.left-nav-header{
+  display: block;
+  width: 100%;
+  height: 80px;
+  background-color: #001a33;
+}
+.left-nav-header img{
+  float: left;
+  width: 40px;
+  margin: 20px 15px 0 15px;
+}
+.left-nav-header h3{
+  float: left;
+  font-size: 20px;
+  color: white;
+  line-height: 80px;
+}

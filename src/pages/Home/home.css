@@ -1,0 +1,25 @@
+.home-top{
+  margin: 25px 0 0 25px;
+}
+.home-top::after{
+  content: '';
+  display: block;
+  clear: both;
+}
+.home-top .home-top-left{
+  float: left;
+}
+.home-top .home-top-right{
+  float: right;
+  width:800px;
+  height: 180px;
+  /*margin-left: 80px;*/
+}
+
+.home-bottom{
+  margin: 110px 60px 25px 25px;
+}
+/* 修改antd组件的某个组件的默认样式 */
+.home-bottom .ant-tabs-tab-btn{
+  font-size:20px
+}
