@@ -1,0 +1,15 @@
+.detail-arrow{
+  font-size: 20px;
+  color: skyblue;
+  margin-right: 10px;
+}
+.detail-title{
+  color:rgba(0,0,0,0.7);
+  font-size: 17px;
+  font-weight: bold;
+}
+.detail-img{
+  width: 150px;
+  border:1px solid #002140;
+  margin-right: 10px;
+}

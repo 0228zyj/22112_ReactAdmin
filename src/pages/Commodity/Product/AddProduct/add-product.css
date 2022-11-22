@@ -1,0 +1,20 @@
+.addProduct{
+  margin: 10px 0 0 13px;
+}
+.addProduct .btn{
+  font-size: 20px;
+}
+.addProduct .add{
+  font-size: 16px;
+}
+.product{
+  margin: 0 0 30px 30px;
+
+}
+.product .star{
+  color:red;
+  margin-right: 3px;
+}
+.avatar-uploader{
+  width:0
+}
